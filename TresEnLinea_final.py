@@ -173,9 +173,6 @@ while opcion != 2:
 
 ''' CONCLUSIÓN :
 
-El algoritmo tiene una complejidad de n. Esto es
-una complejidad con curva lineal que pertenece a 
-la familia o tiene un aproximado de: n ~ O(n) ,
-donde n: 1,2,3,4,5,...,n
+El algoritmo tiene una complejidad de O(1) ya que las dimensiones de la matriz y las operaciones dentro de este juego son a lo mucho 9, por lo tanto son constantes. 
 
 '''
